@@ -1,48 +1,48 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Badri Vishal</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/Blue9-Snake">Blue</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+engineer;I'm+a+Blockchain+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<p>I am a Full Stack Engineer, I am a Blockchain Developer, I love creating something awesome.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>👋 Hi, I’m @Blue9-Snake</li>
+  <li>❤️ I love Creating websites and Programming.</li>
+  <li>🌱 I’m currently working on Web3 Development, Fullstack Development, and Desktop Applications.</li>
+  <li>💼 I'm a Lead Full Stack engineer at Plank.</li>
 </ul>
 
 #### A little more about me
 ```javascript
-const badri = {
+const Blue = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  code: ["React", "NextJS", "Tailwind CSS", "NodeJS", "Django", "Ruby"],
+  askMeAbout: ["web3 dev", "frontend dev", "backend dev", "desktop apps"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      frontend: ["NextJS", "React", "Vue", "Angular"],
+      backend: ["NodeJS", "Django", "RoR", "Laravel"],
+      blockchain: ["Solidity", "Web3", "NFT"],
   }
 }
 ```
 
 #### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
+> 🏆 400+ Contributions in the Year 2023
  > 
-> 📜 400+ Commits on GitHub
+> 📜 1000+ Commits on GitHub
  > 
 > 🔑 200+ Contribution in Private Repos
  > 
 
 #### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+<a href="https://github.com/Blue9-Snake/bw-watcher.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Blue9-Snake&repo=bw-watcher&theme=onedark" />
 </a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
+<a href="https://github.com/Blue9-Snake/xwpwa.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Blue9-Snake&repo=xwpwa&theme=onedark"/>
 </a>
 
 #### Trophies
